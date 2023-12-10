@@ -1,6 +1,6 @@
 # We are PlaceKit 👋
 
-![PlaceKit logo](./profile/placekit-logo-full.png)
+![PlaceKit banner](./profile/placekit-banner.png)
 
 <p align="center">
   <a href="https://placekit.io">placekit.io</a> • 
